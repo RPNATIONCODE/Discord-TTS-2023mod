@@ -1,4 +1,5 @@
 {
 	"botToken": "SECRET_BOT_TOKEN",
-	"fakeYouToken": "SECRET_FAKEYOU_TOKEN"
+	 "fakeYouUsername": "example name",
+    "fakeYouPassword": "example password"
 }
